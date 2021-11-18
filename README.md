@@ -7,8 +7,8 @@
 </div>
 
 ## About me!
-- 📍 Santa Catarina, Brazil
-- ⚡📚💡 I’m a graduate student in Control and Automation Engineering at Federal University of Santa Catarina (UFSC). I mainly studied and researched in the area of Power Eletronics, working with renewable energy and smart-grids. I also developed interest in the area of Computer Vision for Robotics after i took the class offered in my graduation.
+- 📍🌎 Santa Catarina, Brazil
+- ⚡📚 I’m a graduate student in Control and Automation Engineering at Federal University of Santa Catarina (UFSC). I mainly studied and researched in the area of Power Eletronics, working with renewable energy and smart-grids. I also developed interest in the area of Computer Vision for Robotics after i took the class offered in my graduation.
 - 🦾🧠 Currently i'm working in WEG Drives & Controls, where i'm an intern at the Charging Stations for Eletric Vehicles team, known as the WEMOB (Weg Eletric Mobility).
 
 ### If you want to get in contact with me, here's some useful links:
