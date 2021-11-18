@@ -23,5 +23,5 @@
 Also as a sidenote, 🎵🥁 i'm also a drummer 🥁🎵 so if you want, check out my band Ahab Sealife Conservation Inc.
 
 <div> 
-  <a href="https://www.instagram.com/henrique.buzzi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ahab_bnu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://open.spotify.com/artist/1CbqSB4ar233zAmCJjzaOK?si=z6Tr-cQ5ROq-3S61SMryww" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
