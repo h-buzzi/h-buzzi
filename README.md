@@ -8,7 +8,7 @@
 
 ## About me!
 - 📍🌎 Santa Catarina, Brazil
-- ⚡📚 I’m a graduate student in Control and Automation Engineering at Federal University of Santa Catarina (UFSC). I mainly studied and researched in the area of Power Eletronics, working with renewable energy and smart-grids. I also developed interest in the area of Computer Vision for Robotics and Mobile Development.
+- ⚡📚 I’m a graduate student in Control and Automation Engineering at Federal University of Santa Catarina (UFSC). I mainly studied and researched in the area of Power Eletronics, working with renewable energy and smart-grids. I also developed interest in the area of Computer Vision for Robotics and Mobile Development, the latter of which i'm currently focusing most of my studies to get a professional position and finally be able to work.
 
 ### If you want to get in contact with me, here's some useful links:
 <div> 
